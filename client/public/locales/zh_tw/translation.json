@@ -1,0 +1,163 @@
+{
+  "about": "關於",
+  "alias": "別名",
+  "article": {
+    "delete": {
+      "confirm": "確定要刪除這篇文章嗎？"
+    },
+    "title": "文章",
+    "total_short$count_one": "{{count}} 篇",
+    "total_short$count_other": "{{count}} 篇",
+    "total$count_one": "共有 {{count}} 篇文章",
+    "total$count_other": "共有 {{count}} 篇文章"
+  },
+  "avatar": {
+    "url": "頭像 URL"
+  },
+  "cancel": "取消",
+  "clear": "清除",
+  "close": "關閉",
+  "comment": {
+    "empty": "留言不能為空",
+    "placeholder": {
+      "title": "說些什麼吧"
+    },
+    "submit": "發送留言",
+    "success": "留言成功",
+    "title": "留言"
+  },
+  "comparison": "比對",
+  "confirm": "確認",
+  "content": {
+    "empty": "內容無法為空"
+  },
+  "create": "創建",
+  "created_at": "發佈時間",
+  "delete": {
+    "comment": {
+      "confirm": "確定要刪除這筆留言嗎？",
+      "title": "刪除留言"
+    },
+    "confirm": "確定要刪除嗎？",
+    "success": "刪除成功",
+    "title": "刪除"
+  },
+  "description": "描述",
+  "draft": "草稿",
+  "draft_bin": "草稿箱",
+  "drop": {
+    "image": "圖片拖曳到此上傳"
+  },
+  "edit": "編輯",
+  "feed_card": {
+    "published$time": "{{time}} 發佈",
+    "updated$time": "{{time}} 更新"
+  },
+  "footer": {
+    "rss": "RSS 訂閱連結"
+  },
+  "friends": {
+    "apply": "申請友鏈",
+    "create": "創建友鏈",
+    "left": "暫時離開",
+    "my_apply": "我的申請",
+    "review": {
+      "accepted": "接受",
+      "rejected": "拒絕",
+      "waiting": "待審核"
+    },
+    "title": "朋友們"
+  },
+  "github_login": "Github 登入",
+  "home": "首頁",
+  "index": {
+    "back": "返回首頁",
+    "empty": {
+      "title": "目錄"
+    },
+    "title": "目錄"
+  },
+  "listed": "列出在文章中",
+  "login": {
+    "required": "需要登入"
+  },
+  "logout": "登出",
+  "next": "下一頁",
+  "preview": "預覽",
+  "previous": "上一頁",
+  "publish": {
+    "success": "發布成功",
+    "title": "發布"
+  },
+  "reload": "重試",
+  "save": "儲存",
+  "settings": {
+    "cache": {
+      "clear": {
+        "confirm": {
+          "desc": "快取用於減少存取資料庫頻率，請僅在快取錯誤時嘗試清空快取。",
+          "title": "確認清空快取嗎？"
+        },
+        "desc": "清除所有快取文件",
+        "title": "清除快取"
+      },
+      "clear_failed$message": "清除快取失敗: {{message}}"
+    },
+    "friend": {
+      "apply": {
+        "desc": "允許其他用戶申請友鏈（需審核）",
+        "title": "友鏈申請"
+      },
+      "health": {
+        "desc": "啟用朋友們連結可訪問性檢查",
+        "title": "友鏈健康監測",
+        "ua": {
+          "desc": "設定友鏈可存取性檢查時使用的 User-Agent, 預設 'Rin-Check/1.0'",
+          "title": "友鏈健康監測 User-Agent"
+        }
+      }
+    },
+    "get_config_failed$message": "取得設定失敗，{{message}}",
+    "import_failed$message": "匯入失敗，{{message}}",
+    "import_result": "匯入結果",
+    "import_skipped": "跳過匯入",
+    "import_skipped_item$title$reason": "《{{title}}》- {{reason}}",
+    "import_success$success$skipped": "匯入{{success}} 篇文章匯入成功，{{skipped}} 篇文章跳過",
+    "rss": {
+      "desc": "啟用網站底部 RSS 訂閱鏈接",
+      "title": "RSS 訂閱鏈接"
+    },
+    "title": "設定",
+    "update_failed$message": "更新失敗: {{message}}",
+    "wordpress": {
+      "desc": "上傳 WordPress 匯出的 XML 文件",
+      "title": "從 WordPress 匯入"
+    }
+  },
+  "sitename": "網站名稱",
+  "status": "狀態",
+  "summary": "簡介",
+  "tags": "標籤",
+  "timeline": "時間軸",
+  "title": "標題",
+  "title_empty": "標題不能為空",
+  "unlisted": "未列出",
+  "untitled": "未列出",
+  "update": {
+    "success": "更新成功",
+    "title": "更新"
+  },
+  "update$sth": "更新 {{sth}}",
+  "upload": {
+    "failed": "上傳失敗",
+    "failed$size": "上傳失敗，檔案大小不能超過 {{size}} MB",
+    "title": "上傳"
+  },
+  "uploading": "上傳中",
+  "url": "網站 URL",
+  "visible": {
+    "self_only": "僅自己可見"
+  },
+  "writing": "寫作",
+  "year$year": "{{year}} 年"
+}

@@ -181,7 +181,8 @@ function LanguageSwitch({ className }: { className?: string }) {
     const label = 'Languages'
     const languages = [
         { code: 'en', name: 'English' },
-        { code: 'zh', name: '简体中文' },
+        { code: 'zh_cn', name: '简体中文' },
+        { code: 'zh_tw', name: '繁體中文' },
         { code: 'ja', name: '日本語' }
     ]
     return (
